@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JK2501
-- 👀 I’m interested in problem solving!
-- 🌱 I’m currently learning BACKEND.
-- 💞️ I’m looking to collaborate on beginner backend projects <3.
+- 👀 I’m interested in problem-solving!
+- 🌱 I’m currently learning VUE.
+- 💞️ I’m looking to collaborate on vue projects <3.
 - 📫 How to reach me: #0134 on discord.
 
 <!---
